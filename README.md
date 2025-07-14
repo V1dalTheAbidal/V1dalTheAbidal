@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Dimitrios Vidalis
 
-Welcome to my GitHub profile! Here you can see some things about me!
+Welcome to my GitHub profile! Here you can learn some things about me!
 ---
 
 ### 🚀 My Tech Toolbox
